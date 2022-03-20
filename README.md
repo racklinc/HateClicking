@@ -1,6 +1,6 @@
 # HateClicking
-## Keybind more, click less. Automate away holding down right click. Make WoW more like an action RPG.
-### Getting Started
+### Keybind more, click less. Automate away holding down right click. Make WoW more like an action RPG.
+## Getting Started
 Several of this addons features are done through the keybindings menu.
 
 >From the games Main Menu GoTo Keybindings -> Addons -> HateClicking and set keybindings there.
@@ -14,7 +14,7 @@ This little known targeting function targets the first enemy infront of your cha
 TSE can also be used to target M+ Explosives instead of clicking them!
 
 Addon author Racklinc has set TSE to the TAB key.
-### More to Come
+## More to Come
 >Context keybindings that will adapt to conditions such as raidmarking, NPC gossip progress, quest reward selection.
 
 >Keybinding to handle using usable quest items.
