@@ -11,8 +11,8 @@ TSE can also be used to target M+ Explosives instead of clicking them!
 
 Addon author Racklinc has set TSE to the TAB key.
 ### More to Come
---Context keybindings that will adapt to conditions such as raidmarking, NPC gossip progress, quest reward selection.
---Keybinding to handle using usable quest items.
---Engineering enthusiast macro replacements
---Keybindings to use common items such as Healthstones, health potions, combat potions, trinkets.
---Context of Accept Rez and cast a rez.
+>Context keybindings that will adapt to conditions such as raidmarking, NPC gossip progress, quest reward selection.
+>Keybinding to handle using usable quest items.
+>Engineering enthusiast macro replacements
+>Keybindings to use common items such as Healthstones, health potions, combat potions, trinkets.
+>Context of Accept Rez and cast a rez.
