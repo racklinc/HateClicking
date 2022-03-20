@@ -8,7 +8,4 @@
 	<Binding name="HCSmartEnableTOGGLE" category="ADDONS" header="HATECLICKING">
 		HateClickingSmartToggle();
 	</Binding>
-	<Binding name="HCMLDETECT" category="ADDONS" header="HATECLICKING">
-		HateClickingDetect();
-	</Binding>
 </Bindings>

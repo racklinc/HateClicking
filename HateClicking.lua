@@ -259,9 +259,3 @@ end)
 HCGossipClosed:RegisterEvent("GOSSIP_CLOSED")
 HCGossipClosed:RegisterEvent("MERCHANT_CLOSED")
 HCGossipClosed:RegisterEvent("QUEST_GREETING")
---debugging function to tap a keybind and get useful info
-function HateClickingDetect()
-	tempDetect = UnitName("mouseover")
-	InteractUnit(tempDetect)
-	print(tempDetect)
-end
