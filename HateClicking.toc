@@ -1,0 +1,11 @@
+## Interface: 90200
+## Author: Racklinc (aka JohnnyTarr:Shadowsong)
+## Version: 0.2
+## Notes: Keybind more, click less. Automate away holding down right click. Play WoW as an action RPG.
+## SavedVariables: HCSmartEnableCBVal, HCCombatDefaultCBVal, HCMLDoubleTapDefaultVal, HCMLMovingDefaultVal, HCMLMovingDefaultValStr
+## SavedVariablesPerCharacter: HCOverrideEnable_LM_CB, HCOverrideType_LM_DD_Var, HCOverWoWFunc_LM_DD_Var, HcLmOverMacro_Val, HCOverScript_LM, HCOverrideEnable_RM_CB, HCOverrideType_RM_DD_Var, HCOverWoWFunc_RM_DD_Var, HcRmOverMacro_Val, HCOverScript_RM
+
+HateClickingUI.lua
+HateClickingCommands.lua
+Bindings.xml
+HateClicking.lua

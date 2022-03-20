@@ -1,0 +1,14 @@
+<Bindings>
+	<Binding name="HCMLTOGGLE" category="ADDONS" header="HATECLICKING">
+		HateClickingMLToggle();
+	</Binding>
+	<Binding name="HCMLTEMPTOGGLE" category="ADDONS" runOnUp="true" header="HATECLICKING">
+		HateClickingMLTempToggle(keystate);
+	</Binding>
+	<Binding name="HCSmartEnableTOGGLE" category="ADDONS" header="HATECLICKING">
+		HateClickingSmartToggle();
+	</Binding>
+	<Binding name="HCMLDETECT" category="ADDONS" header="HATECLICKING">
+		HateClickingDetect();
+	</Binding>
+</Bindings>
