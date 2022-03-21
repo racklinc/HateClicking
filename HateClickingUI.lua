@@ -196,7 +196,7 @@ end)
 --when the previous section is checked in the UI panel, use this box to set the time it takes to run before automatically enabling mouselook
 HCMLMovingDefaultStr = CreateFrame("EditBox", "HCMLMovingDefaultStr", panel,"InputBoxTemplate")
 HCMLMovingDefaultStr:SetSize(40, 20)
-HCMLMovingDefaultStr:SetPoint("TOPLEFT", 200, -85)
+HCMLMovingDefaultStr:SetPoint("TOPLEFT", 250, -85)
 HCMLMovingDefaultStr:SetFontObject("ChatFontNormal")
 HCMLMovingDefaultStr:SetMaxLetters(10)
 HCMLMovingDefaultStr:SetAutoFocus(false)
